@@ -1,10 +1,6 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## Appirater
-
-Copyright 2017. Arash Payan. This library is distributed under the terms of the MIT/X11.
-
 ## Firebase
 
 

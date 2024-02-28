@@ -1,5 +1,4 @@
 PODS:
-  - Appirater (2.3.1)
   - Firebase/Analytics (10.15.0):
     - Firebase/Core
   - Firebase/Core (10.15.0):
@@ -86,13 +85,11 @@ PODS:
   - SDWebImage/Core (5.18.3)
 
 DEPENDENCIES:
-  - Appirater
   - Firebase/Analytics
   - SDWebImage
 
 SPEC REPOS:
   trunk:
-    - Appirater
     - Firebase
     - FirebaseAnalytics
     - FirebaseCore
@@ -105,7 +102,6 @@ SPEC REPOS:
     - SDWebImage
 
 SPEC CHECKSUMS:
-  Appirater: 44a4651f7912a17dc906b655f0c215d5bb768b84
   Firebase: 66043bd4579e5b73811f96829c694c7af8d67435
   FirebaseAnalytics: 47cef43728f81a839cf1306576bdd77ffa2eac7e
   FirebaseCore: 2cec518b43635f96afe7ac3a9c513e47558abd2e
@@ -117,6 +113,6 @@ SPEC CHECKSUMS:
   PromisesObjC: c50d2056b5253dadbd6c2bea79b0674bd5a52fa4
   SDWebImage: 96e0c18ef14010b7485210e92fac888587ebb958
 
-PODFILE CHECKSUM: 464a51db6d6698d8a05befb8e733f3ef6f347d7e
+PODFILE CHECKSUM: 53131b6365668e1181a9b173ac6aa140af4c2533
 
 COCOAPODS: 1.14.2
